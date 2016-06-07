@@ -7,7 +7,6 @@
   - Mai sẽ làm : Hoàn thiện phần Demo + Triển khai MVP
   - Vấn đề : Triển khai MVP 
   
-
 Do code đang lỗi nên em sẽ update sau ạ. 
 ============================================================================================
 
