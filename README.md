@@ -12,7 +12,7 @@ Do code đang lỗi nên em sẽ update sau ạ.
 
 + Update ngày 8/6 
   - Đã làm được : Triển khai MVP cho Demo. 
-  - Mai sẽ làm : Hoàn thiện tính năng cho Demo + nghiên cứu phần My Account Info (các mô tả dữ liệu lấy về cũng như nghiên cứu các API liên quan).
+  - Mai sẽ làm : Hoàn thiện tính năng cho Demo + nghiên cứu phần My Account Info (các mô tả dữ liệu lấy về cũng như nghiên cứu các API liên quan)
   - Vấn đề : 
 ============================================================================================
 
